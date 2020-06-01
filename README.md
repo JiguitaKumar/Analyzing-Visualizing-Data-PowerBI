@@ -10,3 +10,6 @@ Teaches the different methods to upload information into the Power BI desktop, s
 entering data mannually or by pasting data.
 Also explains some basic data transformations, for example: Merging tables, Splitting columns, query parameters, transforming information
 importanted in a matrix format (with unpivot), changing / working dates, and so on.
+
+2 - Lab1 -
+Exercises to practice Data Transformation.
