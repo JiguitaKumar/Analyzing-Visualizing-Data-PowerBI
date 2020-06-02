@@ -15,4 +15,4 @@ importanted in a matrix format (with unpivot), changing / working dates, and so 
 Exercises to practice Data Transformation.
 
 3 - Data Modelling -
-Managing relationships with autodetect or manually, calculate columns using DAX, Optimizing Models and Sorting graphs.
+Managing relationships with autodetect or manually, calculate columns using DAX, Optimizing Models, Sorting graphs and creating new measures using DAX.
