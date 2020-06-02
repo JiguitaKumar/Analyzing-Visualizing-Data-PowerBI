@@ -13,3 +13,6 @@ importanted in a matrix format (with unpivot), changing / working dates, and so 
 
 2 - Lab1 -
 Exercises to practice Data Transformation.
+
+3 - Data Modelling -
+Managing relationships with autodetect or manually, calculate columns using DAX, Optimizing Models and Sorting graphs.
